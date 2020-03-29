@@ -14,4 +14,5 @@ Dockerfile для airflow взят у https://github.com/puckel/docker-airflow ,
 
 Скачивайте в директорию, не забудьте изменить образ в compose-файле. 
 
-''' docker-compose up -f docker-compose-CeleryExecutor.yml -d '''
+cd <имя_директории>
+docker-compose up -f docker-compose-CeleryExecutor.yml -d 
