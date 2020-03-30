@@ -1,3 +1,4 @@
 redis==3.2
 elasticsearch
 aiohttp==3.6.2
+pyodbc
